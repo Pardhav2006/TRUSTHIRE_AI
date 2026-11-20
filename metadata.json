@@ -1,0 +1,6 @@
+{
+  "name": "TrustHire AI",
+  "description": "AI-Based Job Fraud Detection and Career Recommendation System protecting students and job seekers from recruitment scams and matching skills to trusted career paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
